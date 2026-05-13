@@ -1,0 +1,104 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "c1fIZiJt0bynsBpsVTdqT"
+uri = "file://artifacts/girls-gurukul/src/assets/hero.png"
+type = "image"
+title = "Indian schoolgirls on campus"
+
+[[generated]]
+id = "hYfIwGT7rMcA2_ozaFxjG"
+uri = "file://artifacts/girls-gurukul/src/assets/hostel.png"
+type = "image"
+title = "Girls school hostel room"
+
+[[generated]]
+id = "qdP7Px5uWfMVxEqAD2Erm"
+uri = "file://artifacts/girls-gurukul/src/assets/classrooms.png"
+type = "image"
+title = "Modern Indian classroom"
+
+[[generated]]
+id = "5sbNzoCgZL-i6UucJpvRX"
+uri = "file://artifacts/girls-gurukul/src/assets/sports.png"
+type = "image"
+title = "Girls playing sports on field"
+
+[[generated]]
+id = "24I5_NlmetkEt-S4xeJOt"
+uri = "file://artifacts/girls-gurukul/src/assets/labs.png"
+type = "image"
+title = "Modern school science lab"
+
+[[generated]]
+id = "kNOvNjVLu0bexr2GnYFEI"
+uri = "file://artifacts/girls-gurukul/src/assets/library.png"
+type = "image"
+title = "Beautiful school library"
+
+[[generated]]
+id = "WR1GyMpFZoJ3puTO3FiSd"
+uri = "file://artifacts/girls-gurukul/src/assets/dining.png"
+type = "image"
+title = "School dining hall"
+
+[[generated]]
+id = "P0623zOsda3SXNqyXKJoc"
+uri = "file://artifacts/girls-gurukul/src/assets/sports-day.png"
+type = "image"
+title = "Annual sports day event"
+
+[[generated]]
+id = "2FSn5H9wpwDB7WAMsjy-D"
+uri = "file://artifacts/girls-gurukul/src/assets/cultural.png"
+type = "image"
+title = "School cultural festival"
+
+[[generated]]
+id = "1SAJ2stV6RTCrWC__kuF8"
+uri = "file://artifacts/girls-gurukul/src/assets/yoga.png"
+type = "image"
+title = "Students doing yoga outdoors"
+
+[[generated]]
+id = "mTSrQg0bN2kOlsqdiEr2e"
+uri = "file://artifacts/girls-gurukul/src/assets/principal.png"
+type = "image"
+title = "Indian female school principal portrait"
+
+[[generated]]
+id = "KmYig0XHNdVemhg9fwA22"
+uri = "file://artifacts/girls-gurukul/src/assets/pre-primary.png"
+type = "image"
+title = "Pre-primary classroom scene"
+
+[[generated]]
+id = "B2yTqKR3qQISFkJBAF0jE"
+uri = "file://artifacts/girls-gurukul/src/assets/primary.png"
+type = "image"
+title = "Primary school girls reading"
+
+[[generated]]
+id = "iomYPgKVh8ZF8MGIq-rAa"
+uri = "file://artifacts/girls-gurukul/src/assets/secondary.png"
+type = "image"
+title = "High school girls in science lab"
+
+[[generated]]
+id = "e0QF1aEIK6XYZpu31j_MO"
+uri = "file://artifacts/girls-gurukul/src/assets/medical.png"
+type = "image"
+title = "School medical room"
+
+[[generated]]
+id = "jDuzawe3u1nBNb5BPCNG5"
+uri = "file://artifacts/girls-gurukul/src/assets/transport.png"
+type = "image"
+title = "School bus transport"
+
+[[generated]]
+id = "k-e0PI7eDD4JMJodOzEcN"
+uri = "file://artifacts/girls-gurukul/src/assets/student1.png"
+type = "image"
+title = "Indian girl student holding trophy"
